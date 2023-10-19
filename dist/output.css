@@ -972,7 +972,7 @@ video {
 }
 
 .font-nothingyoucoulddo {
-  font-family: Nothing You Could Do, cursive;
+  font-family: 'Nothing You Could Do', cursive;
 }
 
 .font-serif {
@@ -980,7 +980,12 @@ video {
 }
 
 .font-signika {
-  font-family: Signika, sans-serif;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.font-signika-650 {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 650;
 }
 
 .text-2xl {
@@ -995,6 +1000,11 @@ video {
 
 .text-4xl {
   font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+
+.text-5xl {
+  font-size: 2.85rem;
   line-height: 2.5rem;
 }
 
